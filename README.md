@@ -1,1 +1,19 @@
 # .streamlit-config.toml
+
+[theme]
+base = "light"
+primaryColor = "#E879B9"
+backgroundColor = "#FFF7FB"
+secondaryBackgroundColor = "#FCE7F3"
+textColor = "#493344"
+font = "sans-serif"
+baseRadius = "large"
+buttonRadius = "large"
+borderColor = "#F2C9DF"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#FBE5F1"
+secondaryBackgroundColor = "#FFF7FB"
+primaryColor = "#D9469B"
+textColor = "#493344"
